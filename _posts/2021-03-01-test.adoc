@@ -1,0 +1,10 @@
+= Hello!
+
+This is a test
+
+[source,ruby]
+----
+def foo
+  42
+end
+----
