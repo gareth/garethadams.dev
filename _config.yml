@@ -32,6 +32,9 @@ theme: minima
 plugins:
   - jekyll-feed
 
+source: src
+destination: dist
+
 asciidoc: {}
 asciidoctor:
   attributes:
