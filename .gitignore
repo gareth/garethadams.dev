@@ -1,5 +1,8 @@
-dist
+# Generated node modules
+/node_modules
+
+# Generated Jekyll output
+/dist
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
-vendor
