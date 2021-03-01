@@ -1,0 +1,9 @@
+{
+  "name": "garethadams.dev",
+  "version": "1.0.0",
+  "description": "garethadams.dev",
+  "main": "index.js",
+  "repository": "https://github.com/gareth/garethadams.dev",
+  "author": "Gareth Adams <g@rethada.ms>",
+  "license": "MIT"
+}
