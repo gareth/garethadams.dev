@@ -28,7 +28,6 @@ twitter_username: garethadams
 github_username:  gareth
 
 # Build settings
-theme: minima
 plugins:
   - jekyll-feed
 
