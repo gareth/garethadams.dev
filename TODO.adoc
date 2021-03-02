@@ -1,0 +1,7 @@
+= TODO
+
+* Get webpack working inc. Pygments
+* Write welcome post
+* Publish on Github pages
+* DNS
+* Customise theme
