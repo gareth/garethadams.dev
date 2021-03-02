@@ -39,7 +39,9 @@ asciidoc: {}
 asciidoctor:
   attributes:
     source-highlighter: pygments
-    pygments-css: style
+    stylesdir: ../assets/generated
+    pygments-css: class
+    pygments-stylesheet: pygments.css
 
 # Exclude from processing.
 # The following items will not be processed, by default.
