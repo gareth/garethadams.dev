@@ -28,12 +28,15 @@ twitter_username: garethadams
 github_username:  gareth
 
 # Build settings
-theme: minima
 plugins:
   - jekyll-feed
 
 source: src
 destination: dist
+
+paginate: 5
+paginate_path: "/page/:num"
+
 
 asciidoc: {}
 asciidoctor:

@@ -16,6 +16,7 @@ gem "minima", "~> 2.5"
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-asciidoc"
+  gem "jekyll-paginate"
   gem "jekyll-feed", "~> 0.12"
   gem "pygments.rb", ">= 1.1.2"
 end
