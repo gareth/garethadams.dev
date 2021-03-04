@@ -1,0 +1,61 @@
+= It's about time I started a blog
+:page-category: life
+:page-tags: blogging
+
+I've been a developer for a long time, and for some reason I've never started a blog.
+
+Well that's not the whole story. There were plenty of times I _tried_ to start a blog, but developers are notoriously https://medium.com/things-developers-care-about/why-developers-never-finish-their-projects-bf39d3424114:[bad at finishing side projects] and there are lots of reasons I never got far enough to hit "publish".
+
+== Side projects
+
+As part of a development team at https://bridge-u.com:[BridgeU] we make decisions all the time about how to build new features, which technologies to use, what approaches to take and which to skip.
+
+Everyone has an opinion on those decisions but at the end of the day only a small number of options get investigated and implemented. Even though we're open and objective in those discussions, developers will always have ideas they can't implement in a work setting.
+
+Although we have https://web.archive.org/web/20210117232129/https://www.infoq.com/news/2016/10/ten-percent-time-agileotb/:[10% time] for engineers to invest in their own personal development, I'm lucky that making software is something I actively enjoy as well as being my job. It means I can spend extra time outside of working hours learning and it doesn't feel like it affects https://www.smashingmagazine.com/2012/06/work-life-and-side-projects/:[my work/life balance].
+
+Note: Keeping a healthy work/life balance is important for looking after your mental health, and if you don't have the time to spare then you won't get the benefits of working on something extra-curricular
+
+For me, having a side project to work on gives me a playground to try out ideas that I don't understand strongly enough to recommend at work.
+
+== So what was wrong before?
+
+The simple answer is, nothing was wrong. None of the other times I started making a blog were actually about making a blog.
+
+It turned out that every other time I thought I wanted to write, I was actually more interested in some other more technical part of the blogging experience.
+
+The most exciting part of software development to me is solving a problem – for example modelling the system and implementing things at the right level of abstraction – so I always treated a blog project as another technical problem to be solved. Before I was ready to write I wanted to make sure I'd got the framework right: Could I _tag_ content? Would it be _hierarchical_? How would code snippets work?
+
+I never got to the point where the _writing_ was the thing I cared about.
+
+And that's fine. The important thing about a side project is that it scratches the itch you want to scratch at the time.
+
+== What's different now?
+
+I've been a professional software engineer for nearly 16 years, and a senior developer for 6. My responsibilities have changed, and although I still write code it's a lot more common for me to be involved in higher-level decisions.
+
+It's more important for me to be able to communicate my thoughts, teach other people and enable _them_ to communicate.
+
+So I've spent a lot of time thinking about all the things I know that I haven't really shared, or knowledge that I've shared in one-on-one conversations that probably hasn't gone any further than that.
+
+Now my drive is different. It's not so important for me to technically "solve" the process of building a blog. Although there were a lot of decisions to make to launch this site, I was able to ignore a lot of them because they just weren't blockers. Remember, https://www.joelonsoftware.com/2009/09/23/the-duct-tape-programmer/#:~:text=Shipping%20is%20a%20feature[shipping is the most important feature].
+
+Although I still had to make a bunch of decisions to get this site up and running, I was able to just ignore a lot of them until later on. Before I would have treated them as blockers and just never got to finish step 1.
+
+== What's my goal?
+
+*Firstly*, to launch a blog. If you're reading this then congratulations – I did it!
+
+*Secondly*, to write content. I'm launching this blog just after my birthday, and I'm setting myself a goal of 100 blog posts in the next year. Some of them might be short, some of them might not be interesting, but what I've learned is that it's important to keep up the momentum.
+
+In 2016 I completed a challenge to https://twitter.com/search?q=(from%3Agarethadams)%20%23366in2016[post a picture every day] (which I eventually turned into a photo book), and the biggest driver was continually putting up content for other people to see and respond to. No one would have cared if I'd stopped, but people were surprisingly invested in seeing me continue.
+
+This won't be surprising to anyone who's a regular content creator, but it's a powerful motivator and I'm hoping to lean on it.
+
+*Thirdly*, to get better at expressing my technical thoughts.
+
+I think I'm a very logical person. I'm very confident that when I believe something, I can back that up with a well-reasoned justification. But that doesn't mean I'm right, and it doesn't mean I'm any good at explaining things in a useful way.
+
+So with my blog I want to practice trying to explain things in writing. I'll probably try different approaches in terms of code samples, diagrams and storytelling, but in general just by trying a lot of things I'm hoping to make my content better. Remember that https://georgekao.medium.com/if-you-re-stuck-creating-content-remember-the-ceramics-teacher-7dca1ca9b2a4[through quantity, you’ll come to create quality].
+
+*Finally*, I want to share my opinions. I have a lot of them and it's not fair that you don't know what they are. Some of them are pretty good.
