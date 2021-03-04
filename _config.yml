@@ -46,6 +46,8 @@ asciidoctor:
     stylesdir: ../assets/generated
     pygments-css: class
     pygments-stylesheet: pygments.css
+    idseparator: "-"
+    sectlinks: 1
 
 # Exclude from processing.
 # The following items will not be processed, by default.
