@@ -4,6 +4,7 @@ const webpack = require('webpack');
 // const HtmlWebpackPlugin = require('html-webpack-plugin');
 const MiniCssExtractPlugin = require("mini-css-extract-plugin");
 const SourceMapDevToolPlugin = webpack.SourceMapDevToolPlugin;
+const CssMinimizerPlugin = require('css-minimizer-webpack-plugin');
 
 module.exports = {
   entry: './assets/js/index.js',
@@ -53,6 +54,13 @@ module.exports = {
           }
         ]
       }
+    ],
+  },
+
+  optimization: {
+    minimizer: [
+      `...`,
+      new CssMinimizerPlugin(),
     ],
   },
 
