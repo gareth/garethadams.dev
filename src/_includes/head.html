@@ -16,7 +16,7 @@
   <link rel="canonical" href="{{ page.url | relative_url }}">
   {% endif %}
 
-  <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+  {% include webpack.html %}
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700%7CPT+Sans:400">
 
   {% if false %}
@@ -25,6 +25,4 @@
   {% endif %}
 
   <link rel="alternate" type="application/rss+xml" title="RSS" href="{{ '/atom.xml' | relative_url }}">
-
-  <script async src="{{ '/assets/js/main.js' | relative_url }}"></script>
 </head>

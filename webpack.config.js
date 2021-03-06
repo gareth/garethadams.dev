@@ -5,14 +5,14 @@ const webpack = require('webpack');
 const MiniCssExtractPlugin = require("mini-css-extract-plugin");
 const SourceMapDevToolPlugin = webpack.SourceMapDevToolPlugin;
 const CssMinimizerPlugin = require('css-minimizer-webpack-plugin');
+const HtmlWebpackPlugin = require('html-webpack-plugin');
 
 module.exports = {
   entry: './assets/js/index.js',
 
   output: {
-    filename: 'js/main.js',
+    filename: 'js/[name]-[contenthash].js',
     path: path.resolve(__dirname, 'src', 'assets'),
-    // publicPath: '',
   },
 
   module: {
@@ -65,11 +65,16 @@ module.exports = {
   },
 
   plugins: [
+    new HtmlWebpackPlugin({
+      filename: '../_includes/webpack.html',
+      publicPath: '/assets/',
+      templateContent: ({htmlWebpackPlugin}) => `${htmlWebpackPlugin.tags.headTags}`,
+      inject: false,
+    }),
     new SourceMapDevToolPlugin({}),
     new MiniCssExtractPlugin({
-      filename: "css/main.css"
+      filename: "css/[name]-[contenthash].css"
     }),
-    // new HtmlWebpackPlugin()
   ],
 
   // Default mode for Webpack is production.
