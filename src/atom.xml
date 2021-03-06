@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>garethadams.dev</title>
+ <link href="https://garethadams.dev/atom.xml" rel="self"/>
+ <link href="https://garethadams.dev/"/>
+ <updated>2021-03-06T02:36:53+00:00</updated>
+ <id>https://garethadams.dev</id>
+ <author>
+   <name></name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>Hello world!</title>
+   <link href="https://garethadams.dev/2021/03/01/hello-world/"/>
+   <updated>2021-03-01T00:00:00+00:00</updated>
+   <id>https://garethadams.dev/2021/03/01/hello-world</id>
+   <content type="html"></content>
+ </entry>
+ 
+
+</feed>
