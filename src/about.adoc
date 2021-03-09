@@ -1,0 +1,17 @@
+= About me
+
+Hi, I'm Gareth!
+
+I've been working in web development since 2005, mainly in Ruby on Rails but with a broad range of other technologies under my belt.
+
+This is where I type words I think other people might like to read.
+
+When I'm not developing I'm a big fan of puzzles, games and quizzes. Wherever you are in the world, take a look at http://puzzledpint.com/[Puzzled Pint] to find a monthly meetup with interesting, accessible puzzles.
+
+== Work
+
+At the moment I'm working at https://bridge-u.com[BridgeU] to help improve access to university guidance, and help students make informed decisions about their higher education journey.
+
+Before then I worked in Internet Research and Future Services for https://www.bbc.co.uk/rd[BBC R&D].
+
+I've also worked at Guildford web agency https://kyan.com[Kyan] on a variety of client websites
