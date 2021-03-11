@@ -1,3 +1,17 @@
 @import 'lanyon.css';
 @import 'poole.css';
 @import '../generated/pygments.css';
+
+.license {
+  margin-top: 1rem;
+  padding-top: 0.5rem;
+  font-size: smaller;
+  border-top: 1px solid #ddd;
+
+  img {
+    display: inline-block;
+    margin: 0;
+    vertical-align: middle;
+    border-radius: 0;
+  }
+}
