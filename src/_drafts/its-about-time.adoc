@@ -4,23 +4,25 @@
 
 I've been a developer for a long time, and for some reason I've never started a blog.
 
-Well that's not the whole story. There were plenty of times I _tried_ to start a blog, but developers are notoriously https://medium.com/things-developers-care-about/why-developers-never-finish-their-projects-bf39d3424114:[bad at finishing side projects] and there are lots of reasons I never got far enough to hit "publish".
+Well that's not the whole story. There were plenty of times I _tried_ to start a blog, but developers are notoriously https://medium.com/things-developers-care-about/why-developers-never-finish-their-projects-bf39d3424114[bad at finishing side projects] and there are lots of reasons I never got far enough to hit "publish".
 
 == Side projects
 
-As part of a development team at https://bridge-u.com:[BridgeU] we make decisions all the time about how to build new features, which technologies to use, what approaches to take and which to skip.
+As part of a development team at https://bridge-u.com[BridgeU] we make decisions all the time about how to build new features, which technologies to use, what approaches to take and which to skip.
 
-Everyone has an opinion on those decisions but at the end of the day only a small number of options get investigated and implemented. Even though we're open and objective in those discussions, developers will always have ideas they can't implement in a work setting.
+Everyone on the team has an opinion on those decisions, but ultimately only a fraction of those options get investigated and implemented. Some developers don't have the chance to see their ideas followed up, and that's true regardless of how open and objective the discussion was.
 
-Although we have https://web.archive.org/web/20210117232129/https://www.infoq.com/news/2016/10/ten-percent-time-agileotb/:[10% time] for engineers to invest in their own personal development, I'm lucky that making software is something I actively enjoy as well as being my job. It means I can spend extra time outside of working hours learning and it doesn't feel like it affects https://www.smashingmagazine.com/2012/06/work-life-and-side-projects/:[my work/life balance].
+Thanks to https://web.archive.org/web/20210117232129/https://www.infoq.com/news/2016/10/ten-percent-time-agileotb/[10% time] we do have the chance to explore our "spare" ideas during work hours, but my job is also my hobby and I'm very lucky (and grateful) that I can take extra time to learn about tech outside of work.
 
-Note: Keeping a healthy work/life balance is important for looking after your mental health, and if you don't have the time to spare then you won't get the benefits of working on something extra-curricular
+This extra learning (outside of the 10% time) isn't directly work-focused so it doesn't feel like I'm taking extra hours, and so it doesn't feel like it affects https://www.smashingmagazine.com/2012/06/work-life-and-side-projects/[my work/life balance]. That's important because if I felt like all of my computer time was work time it would be really bad for my meantal health.
 
-For me, having a side project to work on gives me a playground to try out ideas that I don't understand strongly enough to recommend at work.
+For me, having a side project to work on lets me try out ideas without there being consequences to making mistakes or getting things wrong. That helps me understand those ideas and technologies better, so I can give better-formed opinions when it _does_ matter.
+
+But even with that in mind, none of my old "blog" projects have ever got off the ground.
 
 == So what was wrong before?
 
-The simple answer is, nothing was wrong. None of the other times I started making a blog were actually about making a blog.
+The simple answer is, nothing was wrong. None of the other times I started making a blog were _actually_ about making a blog.
 
 It turned out that every other time I thought I wanted to write, I was actually more interested in some other more technical part of the blogging experience.
 
@@ -40,7 +42,7 @@ So I've spent a lot of time thinking about all the things I know that I haven't 
 
 Now my drive is different. It's not so important for me to technically "solve" the process of building a blog. Although there were a lot of decisions to make to launch this site, I was able to ignore a lot of them because they just weren't blockers. Remember, https://www.joelonsoftware.com/2009/09/23/the-duct-tape-programmer/#:~:text=Shipping%20is%20a%20feature[shipping is the most important feature].
 
-Although I still had to make a bunch of decisions to get this site up and running, I was able to just ignore a lot of them until later on. Before I would have treated them as blockers and just never got to finish step 1.
+Although I still had to make a bunch of decisions to get this site up and running (which I'll talk about in future posts), I was able to just ignore a lot of them until later on. Before I would have treated them as blockers and just never got to finish step 1.
 
 == What's my goal?
 
@@ -59,3 +61,5 @@ I think I'm a very logical person. I'm very confident that when I believe someth
 So with my blog I want to practice trying to explain things in writing. I'll probably try different approaches in terms of code samples, diagrams and storytelling, but in general just by trying a lot of things I'm hoping to make my content better. Remember that https://georgekao.medium.com/if-you-re-stuck-creating-content-remember-the-ceramics-teacher-7dca1ca9b2a4[through quantity, you’ll come to create quality].
 
 *Finally*, I want to share my opinions. I have a lot of them and it's not fair that you don't know what they are. Some of them are pretty good.
+
+So here goes, with hopefully a year of good content. I'm on Twitter at https://twitter.com/garethadams[@garethadams] - tell me what you like!
