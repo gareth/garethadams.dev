@@ -34,5 +34,7 @@ end
 # gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 
 group :development do
+  gem "tty-prompt"
   gem "pry-byebug"
+  gem "rake", "~> 13.0"
 end
