@@ -6,6 +6,7 @@ const MiniCssExtractPlugin = require("mini-css-extract-plugin");
 const SourceMapDevToolPlugin = webpack.SourceMapDevToolPlugin;
 const CssMinimizerPlugin = require('css-minimizer-webpack-plugin');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
+const FaviconsWebpackPlugin = require('favicons-webpack-plugin');
 
 module.exports = {
   entry: './assets/js/index.js',
@@ -74,6 +75,23 @@ module.exports = {
     new SourceMapDevToolPlugin({}),
     new MiniCssExtractPlugin({
       filename: "css/[name]-[contenthash].css"
+    }),
+    new FaviconsWebpackPlugin({
+      logo: 'assets/favicon.png',
+      prefix: '',
+      mode: 'webapp',
+      favicons: {
+        icons: {
+          android: true,
+          appleIcon: true,
+          appleStartup: false,
+          coast: false,
+          favicons: true,
+          firefox: false,
+          windows: false,
+          yandex: false,
+        },
+      },
     }),
   ],
 
