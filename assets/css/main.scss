@@ -2,6 +2,14 @@
 @import 'poole.css';
 @import '../generated/pygments.css';
 
+.sidebar-checkbox {
+  // Poole uses the checkbox hack to toggle the sidebar. This is questionable
+  // but having the unlabelled checkbox definitely fails the accessibility check
+  // so we hide it for now. TODO: Check that the site is actually accessible
+  // without this
+  display: none;
+}
+
 .license {
   margin-top: 1rem;
   padding-top: 0.5rem;
